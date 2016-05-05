@@ -14,9 +14,9 @@ I am graduate of Civil Engineering, University of Diponegoro, but I chose a care
 There are currently more likely to use PHP technology and other Web technologies.
 
 Since 2009, I joined as a contributor of Openbiz Framework.
-Referesi :
+Reference :
 
-- <a href="https://web.archive.org/web/20091227073619/http://www.phpopenbiz.org/jim/node/492]" > http://www.phpopenbiz.org/jim/node/492 </a> (Arsip)
+- <a href="https://web.archive.org/web/20091227073619/http://www.phpopenbiz.org/jim/node/492]" > http://www.phpopenbiz.org/jim/node/492 </a> (Archive)
 - <a href="http://www.openbiz.me/team.php">http://www.openbiz.me/team.php</a>
 - <a href="http://www.openbiz.cn/team.php">http://www.openbiz.cn/team.php</a>
 
